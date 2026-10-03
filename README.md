@@ -64,12 +64,7 @@
 > 
 > **Technologies:** Python • OpenCV • Machine Learning
 
-### [🧠 Machine Learning Projects](https://github.com/DveejKotiya/Machine-Learning-Projects)
-> A collection of machine learning projects created while learning and experimenting with ML algorithms.
-> 
-> **Technologies:** Python • Pandas • NumPy • Scikit-learn
-
----
+##
 
 ## 📊 GitHub Stats
 
