@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **MSC Data Science Student** at KSKVKU
+- 🎓 **MSC Data Science Student** at Marwadi University
 - 🐍 Interested in **Python** and Software Development
 - 🤖 Exploring **Artificial Intelligence** and **Machine Learning**
 - 👁️ Interested in **Computer Vision** and real-world AI applications
