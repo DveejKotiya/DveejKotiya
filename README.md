@@ -59,7 +59,7 @@
 
 ## 🚀 Featured Projects
 
-### [🤖 Face Recognition Bus Entry System](https://github.com/DveejKotiya/Face-Recognition-Bus-Entry-System) 
+### [🤖 Face Recognition Bus Entry System]([https://github.com/DveejKotiya/Face-Recognition-Bus-Entry-System](https://github.com/DveejKotiya/SmartBusFaceRecognition)) 
 > An AI-based system designed to automate bus-pass verification using face recognition.
 > 
 > **Technologies:** Python • OpenCV • Machine Learning
