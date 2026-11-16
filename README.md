@@ -3,7 +3,7 @@
 <img src="assets/neon-banner.svg" width="100%" alt="Dveej red neon cyberpunk profile banner"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=2500&pause=900&color=FF3030&center=true&vCenter=true&width=720&lines=Building+ideas+into+reality;Exploring+Artificial+Intelligence+%26+ML;Learning.+Building.+Improving.;With+great+code+comes+great+responsibility." alt="Animated typing introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=2500&pause=900&color=FF3030&center=true&vCenter=true&width=720&lines=Building+ideas+into+reality;Exploring+Artificial+Intelligence+%26+ML;Learning.+Building.+Improving.;With+great+data+comes+great+responsibility." alt="Animated typing introduction"/>
 </a>
 
 <br/>
@@ -58,7 +58,7 @@
 <div align="center">
 <img src="assets/neon-divider.svg" width="95%" alt="Red neon divider"/>
 
-### 🕷️ "With great code comes great responsibility."
+### 🕷️ "With great data comes great responsibility."
 
 **Thanks for visiting my corner of the multiverse.**
 </div>
