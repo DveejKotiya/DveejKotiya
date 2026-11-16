@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#09090d"/><stop offset=".55" stop-color="#241016"/><stop offset="1" stop-color="#071b2b"/></linearGradient><linearGradient id="red"><stop stop-color="#fb7185"/><stop offset="1" stop-color="#dc2626"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".07"/></pattern></defs>
+<rect width="1200" height="320" fill="url(#bg)"/><rect width="1200" height="320" fill="url(#grid)"/>
+<g fill="none" stroke="#ef4444" stroke-opacity=".35"><circle cx="950" cy="160" r="130"/><circle cx="950" cy="160" r="95"/><path d="M820 160H1080M950 30V290M858 68l184 184M858 252l184-184M820 160l130-130 130 130-130 130z"/></g>
+<path d="M0 260L160 190l65 40 90-100 80 90 85-55 95 95v60H0z" fill="#08090e" opacity=".8"/>
+<g fill="#f4f4f5" font-family="Arial,sans-serif"><text x="82" y="105" font-size="17" letter-spacing="8" fill="#38bdf8">AI &amp; ML STUDENT  /  DEVELOPER</text><text x="78" y="180" font-size="62" font-weight="700" letter-spacing="9">D V E E J</text><text x="82" y="222" font-size="18" letter-spacing="3" fill="#fca5a5">BUILDING THE FUTURE, ONE LINE AT A TIME.</text></g>
+<g transform="translate(950 160)" fill="url(#red)"><path d="M0-55C-18-45-35-42-55-40l18 25-20 30 35-7 22 45 22-45 35 7-20-30 18-25C35-42 18-45 0-55Z"/></g>
+<text x="82" y="285" fill="#9ca3af" font-family="monospace" font-size="11" letter-spacing="3">GITHUB.COM/DVEEJKOTIYA</text>
+</svg>
