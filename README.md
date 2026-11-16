@@ -28,11 +28,9 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| 💧 **AquaServe** | Digital water delivery and subscription management system. | Flutter, Kotlin, MongoDB |
-| 🔐 **VaultGuard** | Kotlin-based password manager concept. | Kotlin, Android |
-| 📊 **E-commerce Sales Dashboard** | Dashboard for exploring and presenting sales data. | Python, Data Analytics |
-
-> Add repository links to the project names when their repositories are public.
+| 💧 **[AquaServe](https://github.com/DveejKotiya/AquaServe-sem-6)** | Water delivery backend with orders, wallet, subscriptions, and delivery management. | Node.js, Express, MongoDB |
+| 🤖 **[MyPersonalAI](https://github.com/DveejKotiya/MyPersonalAI)** | Personal AI assistant project exploring an intelligent, voice-enabled assistant experience. | See repository for current stack |
+| 🚌 **[SmartBusFaceRecognition](https://github.com/DveejKotiya/SmartBusFaceRecognition)** | Face recognition-based student identity and bus-pass verification system. | Python, PyTorch, OpenCV, Streamlit, SQLite |
 
 ## 🧰 TECH ARSENAL
 
