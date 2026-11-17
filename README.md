@@ -9,6 +9,7 @@
 <br/>
 
 <a href="https://dveejkotiya-vercel-deploy.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-111111?style=for-the-badge&logo=googlechrome&logoColor=ff3030" alt="Portfolio"/></a>
+<a href="https://github.com/DveejKotiya/Portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-SOURCE_CODE-111111?style=for-the-badge&logo=github&logoColor=ff3030" alt="Portfolio source code"/></a>
 <a href="https://github.com/DveejKotiya"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-111111?style=for-the-badge&logo=github&logoColor=ff3030" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/dveej-kotiya-70459b3a/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-111111?style=for-the-badge&logo=linkedin&logoColor=ff3030" alt="LinkedIn"/></a>
 
