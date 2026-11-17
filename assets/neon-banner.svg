@@ -1,18 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-<title id="title">Dveej red neon profile banner</title><desc id="desc">Dark cyberpunk banner with glowing red lines and DVE EJ title.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+<title id="title">Dveej — A New Day, A New Build</title>
+<desc id="desc">Original comic-book inspired red and blue city skyline, halftone texture, web strands, and developer title.</desc>
 <defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050505"/><stop offset=".55" stop-color="#210000"/><stop offset="1" stop-color="#050505"/></linearGradient>
- <radialGradient id="glow"><stop stop-color="#ff1717" stop-opacity=".28"/><stop offset="1" stop-color="#ff1717" stop-opacity="0"/></radialGradient>
- <filter id="neon" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="7" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
- <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#ff3030" stroke-opacity=".12" stroke-width="1"/></pattern>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070a13"/><stop offset=".48" stop-color="#15101b"/><stop offset="1" stop-color="#071321"/></linearGradient>
+  <linearGradient id="split" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ed2939" stop-opacity=".9"/><stop offset=".5" stop-color="#ed2939" stop-opacity=".1"/><stop offset="1" stop-color="#1677d2" stop-opacity=".9"/></linearGradient>
+  <radialGradient id="redGlow"><stop stop-color="#f12b42" stop-opacity=".42"/><stop offset="1" stop-color="#f12b42" stop-opacity="0"/></radialGradient>
+  <radialGradient id="blueGlow"><stop stop-color="#1687e8" stop-opacity=".3"/><stop offset="1" stop-color="#1687e8" stop-opacity="0"/></radialGradient>
+  <pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.5" fill="#f7f4f4" opacity=".22"/></pattern>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="left"><path d="M0 0H620L510 390H0Z"/></clipPath>
+  <clipPath id="right"><path d="M620 0H1200V390H510Z"/></clipPath>
 </defs>
-<rect width="1200" height="360" fill="url(#bg)"/><rect width="1200" height="360" fill="url(#grid)"/>
-<circle cx="600" cy="160" r="310" fill="url(#glow)"/>
-<path d="M0 55H260l28 28h120M1200 70H970l-30 30H820M0 300h230l35-35h170M1200 290H980l-30-30H810" fill="none" stroke="#ff2525" stroke-width="2" opacity=".75" filter="url(#neon)"/>
-<path d="M0 115h180l18 18h95M1200 130h-190l-20 20h-80M0 235h140l25-25h110M1200 225h-160l-25-25h-95" fill="none" stroke="#ff3030" stroke-width="1.5" opacity=".45"/>
-<g fill="#ff3434" opacity=".85"><circle cx="260" cy="83" r="3"/><circle cx="940" cy="100" r="3"/><circle cx="300" cy="265" r="3"/><circle cx="900" cy="260" r="3"/></g>
-<text x="600" y="158" text-anchor="middle" fill="#ff3030" font-family="Arial,sans-serif" font-size="76" font-weight="800" letter-spacing="17" filter="url(#neon)">DVEEJ</text>
-<text x="600" y="211" text-anchor="middle" fill="#f4eeee" font-family="Arial,sans-serif" font-size="19" letter-spacing="5">AI &amp; ML STUDENT  •  DEVELOPER  •  BUILDER</text>
-<path d="M360 245H840" stroke="#ff3030" stroke-width="2" filter="url(#neon)"/>
-<text x="600" y="290" text-anchor="middle" fill="#ff7777" font-family="Arial,sans-serif" font-size="15" letter-spacing="3">LEARN  /  BUILD  /  EXPERIMENT  /  IMPROVE</text>
+<rect width="1200" height="390" fill="url(#bg)"/>
+<rect width="1200" height="390" fill="url(#split)" opacity=".25"/>
+<ellipse cx="240" cy="160" rx="370" ry="270" fill="url(#redGlow)"/>
+<ellipse cx="1010" cy="190" rx="360" ry="290" fill="url(#blueGlow)"/>
+<g clip-path="url(#left)" opacity=".8"><rect width="620" height="390" fill="url(#dots)"/></g>
+<g clip-path="url(#right)" opacity=".65"><rect x="580" width="620" height="390" fill="url(#dots)"/></g>
+<!-- stylized skyline -->
+<g fill="#080b13" stroke="#ff4052" stroke-opacity=".55" stroke-width="2">
+ <path d="M0 318V245h55v-38h30v111h28v-78h55v-54h28v132h38v-91h48v-63h34v154h50v-84h42v-44h32v128H0Z"/>
+</g>
+<g fill="#07101c" stroke="#268ce8" stroke-opacity=".65" stroke-width="2">
+ <path d="M690 318v-112h35v-54h25v166h36v-92h52v-71h28v163h34v-123h52v-49h32v172h36v-87h45v-58h30v145H690Z"/>
+</g>
+<!-- comic-book web strands -->
+<g fill="none" stroke="#f4f1f5" stroke-opacity=".3" stroke-width="1.4">
+ <path d="M0 0L360 180L0 170M0 0L360 180L130 0M0 0L360 180L0 310M0 0L360 180L230 0M0 0L360 180L0 90"/>
+ <path d="M1200 0L840 185L1200 165M1200 0L840 185L1050 0M1200 0L840 185L1200 310M1200 0L840 185L970 0M1200 0L840 185L1200 90"/>
+ <path d="M0 90Q175 60 360 180Q175 300 0 270M0 145Q190 95 360 180Q190 265 0 215M1200 90Q1025 60 840 185Q1025 305 1200 270M1200 145Q1010 100 840 185Q1010 265 1200 215"/>
+</g>
+<path d="M0 330L1200 330" stroke="#fff" stroke-opacity=".15"/>
+<path d="M0 335H1200" stroke="url(#split)" stroke-width="3" filter="url(#glow)"/>
+<g text-anchor="middle" font-family="Arial,Helvetica,sans-serif">
+ <text x="600" y="128" fill="#fff" font-size="18" font-weight="700" letter-spacing="8">ECE  /  AI &amp; MACHINE LEARNING  /  DEVELOPER</text>
+ <text x="600" y="220" fill="#fff" stroke="#10131d" stroke-width="8" paint-order="stroke" font-size="94" font-weight="900" letter-spacing="10">DVEEJ</text>
+ <text x="600" y="267" fill="#ff5667" font-size="23" font-weight="800" letter-spacing="8" filter="url(#glow)">A NEW DAY. A NEW BUILD.</text>
+ <text x="600" y="302" fill="#d6e6f7" font-size="14" letter-spacing="4">LEARN  •  CREATE  •  REPEAT</text>
+</g>
+<path d="M600 0L510 390M620 0L710 390" stroke="#fff" stroke-opacity=".12" stroke-width="2"/>
+<g fill="#ff485b"><circle cx="105" cy="105" r="3"/><circle cx="1090" cy="82" r="3"/><circle cx="160" cy="290" r="2"/><circle cx="1040" cy="285" r="2"/></g>
 </svg>
