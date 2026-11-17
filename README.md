@@ -15,7 +15,7 @@
 
 <a href="https://dveejkotiya-vercel-deploy.vercel.app/"><img src="https://img.shields.io/badge/OPEN%20MY%20PORTFOLIO-E53935?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://github.com/DveejKotiya"><img src="https://img.shields.io/badge/FOLLOW%20ON%20GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/dveej-kotiya-70459b3a/"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0969DA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/dveej-kotiya"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0969DA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:dveej.professional@gmail.com"><img src="https://img.shields.io/badge/EMAIL%20ME-dveej.professional%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Dveej"/></a>
 <a href="https://github.com/DveejKotiya/Portfolio"><img src="https://img.shields.io/badge/PORTFOLIO%20SOURCE-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio source code"/></a>
 
@@ -69,7 +69,7 @@ Hey! I'm **Dveej**, an ECE student exploring the world of **Artificial Intellige
 <div align="center">
 
 <a href="https://github.com/DveejKotiya"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/dveej-kotiya-70459b3a/"><img src="https://img.shields.io/badge/LinkedIn-0969DA?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/dveej-kotiya"><img src="https://img.shields.io/badge/LinkedIn-0969DA?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://dveejkotiya-vercel-deploy.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-E53935?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="mailto:dveej.professional@gmail.com"><img src="https://img.shields.io/badge/Email-dveej.professional%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
