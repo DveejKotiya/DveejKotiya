@@ -41,12 +41,11 @@
 ## 📊 GITHUB STATISTICS
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DveejKotiya&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff3030&icon_color=ff5555&text_color=f2f2f2&rank_icon=github" height="170" alt="GitHub profile statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DveejKotiya&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff3030&text_color=f2f2f2" height="170" alt="Most used programming languages"/>
+<img src="https://github-stats-extended.vercel.app/api?username=DveejKotiya&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff3030&icon_color=ff5555&text_color=f2f2f2&rank_icon=github" height="170" alt="GitHub profile statistics"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DveejKotiya&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff3030&text_color=f2f2f2" height="170" alt="Most used programming languages"/>
 <br/>
 <img src="https://streak-stats.demolab.com?user=DveejKotiya&hide_border=true&background=0d1117&ring=ff3030&fire=ff5555&currStreakLabel=ff3030&sideLabels=f2f2f2&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa" alt="GitHub contribution streak"/>
 <br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DveejKotiya&bg_color=0d1117&color=f2f2f2&line=ff3030&point=ff7777&area=true&hide_border=true" width="98%" alt="GitHub contribution activity graph"/>
 </div>
 
 ## 🎯 CURRENT FOCUS
