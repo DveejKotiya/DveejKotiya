@@ -1,0 +1,37 @@
+name: Generate profile trophies
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "README.md"
+      - ".github/workflows/generate-profile-trophies.yml"
+  schedule:
+    - cron: "23 3 * * 1"
+
+permissions:
+  contents: write
+
+jobs:
+  trophies:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate trophy SVG locally
+        uses: ryo-ma/github-profile-trophy@master
+        with:
+          username: DveejKotiya
+          output_path: assets/github-trophies.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: darkhub
+
+      - name: Commit updated trophy image
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-trophies.svg
+          git diff --cached --quiet || git commit -m "Update GitHub profile trophies"
+          git push
