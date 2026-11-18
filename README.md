@@ -97,7 +97,7 @@ I enjoy learning by doing: taking an idea, breaking it into smaller problems, wr
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=DveejKotiya&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub profile trophies"/>
+<img src="assets/github-trophies.svg" alt="GitHub profile trophies — generated and stored in this repository" />
 
 </div>
 
