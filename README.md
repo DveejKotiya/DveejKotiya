@@ -136,6 +136,16 @@ Turning concepts into working prototypes and documenting the journey.
 
 <img src="assets/github-trophies.svg" alt="GitHub profile trophies"/>
 
+<br/>
+
+### 🐍 CONTRIBUTION SNAKE
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg"/>
+  <img alt="Animated snake eating my GitHub contribution graph" src="assets/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
 </div>
 
 ## 🎯 NEXT MISSIONS
