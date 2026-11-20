@@ -33,7 +33,7 @@
 <a href="#github-dashboard">GITHUB STATS</a> &nbsp;•&nbsp;
 <a href="#connect">CONNECT</a>
 
-<img src="assets/neon-divider.svg" width="96%" alt="Red and blue comic web divider"/>
+<img src="assets/neon-pulse-divider.svg" width="96%" alt="Red and blue comic web divider"/>
 
 </div>
 
@@ -168,7 +168,7 @@ Turning concepts into working prototypes and documenting the journey.
 
 <br/><br/>
 
-<img src="assets/neon-divider.svg" width="96%" alt="Red and blue comic web divider"/>
+<img src="assets/neon-pulse-divider.svg" width="96%" alt="Red and blue comic web divider"/>
 
 ### 🕷️ A NEW DAY. A NEW IDEA. A NEW BUILD.
 
