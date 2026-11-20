@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff354d,48:171b2b,100:1687e8&height=155&section=header&text=DVEEJ%20KOTIYA&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%26%20ML%20Explorer%20%7C%20ECE%20Student&descAlignY=61&descSize=16" width="100%" alt="Animated red and blue neon wave header"/>
+
 <img src="assets/neon-banner.svg" width="100%" alt="Dveej Kotiya — A new day, a new build"/>
 
 <br/>
@@ -171,5 +173,7 @@ Turning concepts into working prototypes and documenting the journey.
 ### 🕷️ A NEW DAY. A NEW IDEA. A NEW BUILD.
 
 *Thanks for stopping by. Let's keep learning, creating, and building.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1687e8,52:171b2b,100:ff354d&height=115&section=footer&animation=twinkling" width="100%" alt="Animated blue and red neon wave footer"/>
 
 </div>
