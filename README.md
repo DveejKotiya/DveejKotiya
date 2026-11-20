@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="assets/neon-profile-header.svg" width="100%" alt="Animated red and blue neon wave header"/>
+<img src="https://raw.githubusercontent.com/DveejKotiya/DveejKotiya/main/assets/neon-profile-header.svg" width="100%" alt="Red and blue neon wave header"/>
 
 <img src="assets/neon-banner.svg" width="100%" alt="Dveej Kotiya — A new day, a new build"/>
 
