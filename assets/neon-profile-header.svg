@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-labelledby="title desc">
+<title id="title">Dveej Kotiya — AI and ML Explorer</title>
+<desc id="desc">Animated red and blue neon wave header with a glowing title.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#10121d"/><stop offset=".52" stop-color="#241326"/><stop offset="1" stop-color="#071b32"/></linearGradient>
+  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff354d"/><stop offset=".5" stop-color="#a855f7"/><stop offset="1" stop-color="#1687e8"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="190" rx="12" fill="url(#bg)"/>
+<g fill="none" stroke="url(#neon)" filter="url(#glow)" opacity=".85">
+ <path stroke-width="3" d="M-20 118 Q130 35 280 118 T580 118 T880 118 T1220 118"><animate attributeName="d" dur="7s" repeatCount="indefinite" values="M-20 118 Q130 35 280 118 T580 118 T880 118 T1220 118;M-20 118 Q130 175 280 118 T580 118 T880 118 T1220 118;M-20 118 Q130 35 280 118 T580 118 T880 118 T1220 118"/></path>
+ <path stroke-width="1.5" opacity=".65" d="M-20 135 Q130 70 280 135 T580 135 T880 135 T1220 135"><animate attributeName="d" dur="9s" repeatCount="indefinite" values="M-20 135 Q130 70 280 135 T580 135 T880 135 T1220 135;M-20 135 Q130 190 280 135 T580 135 T880 135 T1220 135;M-20 135 Q130 70 280 135 T580 135 T880 135 T1220 135"/></path>
+</g>
+<g fill="#fff" opacity=".23"><circle cx="75" cy="38" r="2"/><circle cx="170" cy="70" r="1.5"/><circle cx="1040" cy="42" r="2"/><circle cx="1110" cy="82" r="1.5"/><circle cx="930" cy="25" r="1.5"/></g>
+<text x="600" y="78" text-anchor="middle" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="43" font-weight="800" letter-spacing="3" filter="url(#glow)">DVEEJ KOTIYA</text>
+<text x="600" y="108" text-anchor="middle" fill="#dbeafe" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="1.5">AI &amp; ML EXPLORER  |  ECE STUDENT</text>
+<path d="M390 151 H810" stroke="url(#neon)" stroke-width="2" stroke-linecap="round"><animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite"/></path>
+</svg>
