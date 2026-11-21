@@ -48,6 +48,9 @@ I like understanding how things work and turning what I learn into practical pro
 - 💻 Building with Python and modern development tools
 - 🔍 Interested in intelligent systems and real-world problem solving
 - 🌱 Always learning through projects, experimentation, and debugging
+- 🔭 **Current focus:** Computer vision, practical AI/ML applications, and stronger software fundamentals
+
+I enjoy collaborating, sharing ideas, and learning by building — one practical improvement at a time.
 
 > **THE MINDSET:** Stay curious. Build with purpose. Make every version better.
 
