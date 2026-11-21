@@ -15,9 +15,9 @@
 <br/><br/>
 
 <a href="https://dveejkotiya-vercel-deploy.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-FF4545?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://github.com/DveejKotiya?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
-<a href="https://www.linkedin.com/in/dveej-kotiya"><img src="https://img.shields.io/badge/LINKEDIN-0969DA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:dveej.professional@gmail.com"><img src="https://img.shields.io/badge/CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/DveejKotiya?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-38BDF8?style=for-the-badge&logo=github&logoColor=0B1020" alt="Projects"/></a>
+<a href="https://www.linkedin.com/in/dveej-kotiya"><img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:dveej.professional@gmail.com"><img src="https://img.shields.io/badge/CONTACT-FF6B6B?style=for-the-badge&logo=gmail&logoColor=0B1020" alt="Email"/></a>
 
 <br/><br/>
 
@@ -89,13 +89,13 @@ Turning concepts into working prototypes and documenting the journey.
 <div align="center">
 
 <a href="https://github.com/DveejKotiya/SmartBusFaceRecognition">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DveejKotiya&repo=SmartBusFaceRecognition&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF5555&icon_color=38BDF8" alt="SmartBusFaceRecognition project card"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DveejKotiya&repo=SmartBusFaceRecognition&theme=tokyonight&hide_border=false&bg_color=0B1020&border_color=FF4545&title_color=FF6B6B&icon_color=38BDF8" alt="SmartBusFaceRecognition project card"/>
 </a>
 <a href="https://github.com/DveejKotiya/MyPersonalAI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DveejKotiya&repo=MyPersonalAI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF5555&icon_color=38BDF8" alt="MyPersonalAI project card"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DveejKotiya&repo=MyPersonalAI&theme=tokyonight&hide_border=false&bg_color=0B1020&border_color=38BDF8&title_color=FF6B6B&icon_color=38BDF8" alt="MyPersonalAI project card"/>
 </a>
 <a href="https://github.com/DveejKotiya/AquaServe-sem-6">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DveejKotiya&repo=AquaServe-sem-6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF5555&icon_color=38BDF8" alt="AquaServe project card"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DveejKotiya&repo=AquaServe-sem-6&theme=tokyonight&hide_border=false&bg_color=0B1020&border_color=FF4545&title_color=FF6B6B&icon_color=38BDF8" alt="AquaServe project card"/>
 </a>
 
 </div>
@@ -164,10 +164,10 @@ Turning concepts into working prototypes and documenting the journey.
 
 <div align="center" id="connect">
 
-<a href="https://github.com/DveejKotiya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/dveej-kotiya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://dveejkotiya-vercel-deploy.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-E53935?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="mailto:dveej.professional@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/DveejKotiya"><img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/dveej-kotiya"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://dveejkotiya-vercel-deploy.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF4545?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:dveej.professional@gmail.com"><img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=0B1020" alt="Email"/></a>
 
 <br/><br/>
 
