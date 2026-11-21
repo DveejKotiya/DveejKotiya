@@ -1,20 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="28" viewBox="0 0 1000 28" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="36" viewBox="0 0 1000 36" fill="none">
   <defs>
-    <linearGradient id="neon" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#ff244d"><animate attributeName="stop-color" values="#ff244d;#ff8a3d;#1687e8;#ff244d" dur="7s" repeatCount="indefinite"/></stop>
-      <stop offset=".5" stop-color="#1687e8"><animate attributeName="stop-color" values="#1687e8;#ff244d;#8b5cf6;#1687e8" dur="7s" repeatCount="indefinite"/></stop>
-      <stop offset="1" stop-color="#ff244d"><animate attributeName="stop-color" values="#ff244d;#1687e8;#ff8a3d;#ff244d" dur="7s" repeatCount="indefinite"/></stop>
+    <linearGradient id="pulseLine" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff244d"><animate attributeName="stop-color" values="#ff244d;#ff8a3d;#ff244d" dur="5s" repeatCount="indefinite"/></stop>
+      <stop offset=".5" stop-color="#1687e8"><animate attributeName="stop-color" values="#1687e8;#ff244d;#1687e8" dur="5s" repeatCount="indefinite"/></stop>
+      <stop offset="1" stop-color="#ff244d"><animate attributeName="stop-color" values="#ff244d;#1687e8;#ff244d" dur="5s" repeatCount="indefinite"/></stop>
     </linearGradient>
-    <filter id="glow" x="-20%" y="-100%" width="140%" height="300%">
-      <feGaussianBlur stdDeviation="3.5" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
+    <filter id="neonGlow" x="-20%" y="-100%" width="140%" height="300%"><feGaussianBlur stdDeviation="3.5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   </defs>
-  <path d="M8 14 H992" stroke="url(#neon)" stroke-width="2.2" stroke-linecap="round" filter="url(#glow)" stroke-dasharray="18 12">
-    <animate attributeName="stroke-dashoffset" from="0" to="-120" dur="5s" repeatCount="indefinite"/>
+  <path d="M8 18H992" stroke="url(#pulseLine)" stroke-width="2" opacity=".9" filter="url(#neonGlow)"/>
+  <path d="M8 18H992" stroke="#fff" stroke-opacity=".8" stroke-width="1.2" stroke-linecap="round" stroke-dasharray="2 34" filter="url(#neonGlow)">
+    <animate attributeName="stroke-dashoffset" from="0" to="-360" dur="3.8s" repeatCount="indefinite"/>
   </path>
-  <circle cx="500" cy="14" r="4" fill="#fff" filter="url(#glow)">
-    <animate attributeName="r" values="3;5;3" dur="1.8s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values=".55;1;.55" dur="1.8s" repeatCount="indefinite"/>
-  </circle>
+  <circle cx="500" cy="18" r="3.5" fill="#fff" filter="url(#neonGlow)"><animate attributeName="r" values="2.5;5.5;2.5" dur="1.5s" repeatCount="indefinite"/><animate attributeName="opacity" values=".5;1;.5" dur="1.5s" repeatCount="indefinite"/></circle>
+  <circle cx="500" cy="18" r="10" stroke="#38bdf8" stroke-opacity=".75" stroke-width="1"><animate attributeName="r" values="5;17;5" dur="2.2s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0;.7" dur="2.2s" repeatCount="indefinite"/></circle>
 </svg>
