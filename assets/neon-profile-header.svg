@@ -13,7 +13,7 @@
 </g>
 <g fill="#fff" opacity=".23"><circle cx="75" cy="38" r="2"/><circle cx="170" cy="70" r="1.5"/><circle cx="1040" cy="42" r="2"/><circle cx="1110" cy="82" r="1.5"/><circle cx="930" cy="25" r="1.5"/></g>
 <text x="600" y="78" text-anchor="middle" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="43" font-weight="800" letter-spacing="3" filter="url(#glow)">DVEEJ KOTIYA<animate attributeName="opacity" values=".82;1;.82" dur="3s" repeatCount="indefinite"/></text>
-<text x="600" y="108" text-anchor="middle" fill="#dbeafe" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="1.5">AI &amp; ML EXPLORER  |  ECE STUDENT</text>
+<text x="600" y="108" text-anchor="middle" fill="#dbeafe" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="1.5">AI &amp; ML EXPLORER  |  MSC STUDENT</text>
 <path d="M390 151 H810" stroke="url(#neon)" stroke-width="2" stroke-linecap="round"><animate attributeName="opacity" values=".25;1;.25" dur="2.4s" repeatCount="indefinite"/></path>
 <g fill="#fff" filter="url(#glow)">
  <circle cx="110" cy="145" r="2"><animate attributeName="cy" values="145;35;145" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values=".15;1;.15" dur="6s" repeatCount="indefinite"/></circle>
