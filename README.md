@@ -9,7 +9,7 @@
 <br/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2600&pause=900&color=FF4545&center=true&vCenter=true&width=760&lines=ECE+STUDENT+%7C+AI+%26+ML+EXPLORER;Curiosity+is+my+superpower.;Building+ideas+into+working+projects.;Learn.+Build.+Improve.+Repeat." alt="Animated introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2600&pause=900&color=FF4545&center=true&vCenter=true&width=760&lines=MSc+STUDENT+%7C+AI+%26+ML+EXPLORER;Curiosity+is+my+superpower.;Building+ideas+into+working+projects.;Learn.+Build.+Improve.+Repeat." alt="Animated introduction"/>
 </a>
 
 <br/><br/>
@@ -39,11 +39,11 @@
 
 ## 🕸️ ABOUT ME
 
-Hey, I'm **Dveej Kotiya** — an **Electronics & Communication Engineering student** interested in Artificial Intelligence, Machine Learning, and software development.
+Hey, I'm **Dveej Kotiya** — an **MSc student** interested in Artificial Intelligence, Machine Learning, and software development.
 
 I like understanding how things work and turning what I learn into practical projects. My approach is simple: explore an idea, break it into smaller problems, build a solution, test it, and keep improving.
 
-- 🎓 Electronics & Communication Engineering student
+- 🎓 MSc student
 - 🧠 Exploring AI, Machine Learning, and computer vision
 - 💻 Building with Python and modern development tools
 - 🔍 Interested in intelligent systems and real-world problem solving
