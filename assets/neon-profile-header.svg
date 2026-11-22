@@ -12,7 +12,17 @@
  <path stroke-width="1.5" opacity=".65" d="M-20 135 Q130 70 280 135 T580 135 T880 135 T1220 135"><animate attributeName="d" dur="9s" repeatCount="indefinite" values="M-20 135 Q130 70 280 135 T580 135 T880 135 T1220 135;M-20 135 Q130 190 280 135 T580 135 T880 135 T1220 135;M-20 135 Q130 70 280 135 T580 135 T880 135 T1220 135"/></path>
 </g>
 <g fill="#fff" opacity=".23"><circle cx="75" cy="38" r="2"/><circle cx="170" cy="70" r="1.5"/><circle cx="1040" cy="42" r="2"/><circle cx="1110" cy="82" r="1.5"/><circle cx="930" cy="25" r="1.5"/></g>
-<text x="600" y="78" text-anchor="middle" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="43" font-weight="800" letter-spacing="3" filter="url(#glow)">DVEEJ KOTIYA</text>
+<text x="600" y="78" text-anchor="middle" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="43" font-weight="800" letter-spacing="3" filter="url(#glow)">DVEEJ KOTIYA<animate attributeName="opacity" values=".82;1;.82" dur="3s" repeatCount="indefinite"/></text>
 <text x="600" y="108" text-anchor="middle" fill="#dbeafe" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="1.5">AI &amp; ML EXPLORER  |  ECE STUDENT</text>
-<path d="M390 151 H810" stroke="url(#neon)" stroke-width="2" stroke-linecap="round"><animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite"/></path>
+<path d="M390 151 H810" stroke="url(#neon)" stroke-width="2" stroke-linecap="round"><animate attributeName="opacity" values=".25;1;.25" dur="2.4s" repeatCount="indefinite"/></path>
+<g fill="#fff" filter="url(#glow)">
+ <circle cx="110" cy="145" r="2"><animate attributeName="cy" values="145;35;145" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values=".15;1;.15" dur="6s" repeatCount="indefinite"/></circle>
+ <circle cx="1080" cy="150" r="2.5"><animate attributeName="cy" values="150;28;150" dur="7.5s" repeatCount="indefinite"/><animate attributeName="opacity" values=".1;.9;.1" dur="7.5s" repeatCount="indefinite"/></circle>
+ <circle cx="260" cy="30" r="1.8"><animate attributeName="opacity" values=".15;1;.15" dur="2.8s" repeatCount="indefinite"/></circle>
+ <circle cx="940" cy="80" r="1.8"><animate attributeName="opacity" values="1;.15;1" dur="3.6s" repeatCount="indefinite"/></circle>
+</g>
+<path d="M360 0L470 190" stroke="#fff" stroke-opacity="0" stroke-width="34">
+ <animate attributeName="stroke-opacity" values="0;.07;0" dur="5s" repeatCount="indefinite"/>
+ <animate attributeName="d" values="M250 0L360 190;M850 0L960 190;M1450 0L1560 190" dur="5s" repeatCount="indefinite"/>
+</path>
 </svg>
