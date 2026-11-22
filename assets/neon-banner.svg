@@ -31,11 +31,20 @@
  <path d="M0 90Q175 60 360 180Q175 300 0 270M0 145Q190 95 360 180Q190 265 0 215M1200 90Q1025 60 840 185Q1025 305 1200 270M1200 145Q1010 100 840 185Q1010 265 1200 215"/>
 </g>
 <path d="M0 330L1200 330" stroke="#fff" stroke-opacity=".15"/>
+<path d="M0 0L1200 0" stroke="#fff" stroke-width="2" opacity="0">
+ <animate attributeName="opacity" values="0;.45;0" dur="4.5s" repeatCount="indefinite"/>
+ <animate attributeName="d" values="M0 0L1200 0;M0 390L1200 390;M0 0L1200 0" dur="4.5s" repeatCount="indefinite"/>
+</path>
+<g fill="#fff" opacity=".0">
+ <circle cx="300" cy="90" r="2"><animate attributeName="opacity" values="0;.9;0" dur="2.5s" repeatCount="indefinite"/></circle>
+ <circle cx="890" cy="120" r="2"><animate attributeName="opacity" values="0;.8;0" dur="3.1s" begin=".8s" repeatCount="indefinite"/></circle>
+ <circle cx="740" cy="55" r="1.5"><animate attributeName="opacity" values="0;.9;0" dur="2.8s" begin="1.4s" repeatCount="indefinite"/></circle>
+</g>
 <path d="M0 335H1200" stroke="url(#split)" stroke-width="3" filter="url(#glow)"/>
 <g text-anchor="middle" font-family="Arial,Helvetica,sans-serif">
  <text x="600" y="128" fill="#fff" font-size="18" font-weight="700" letter-spacing="8">ECE  /  AI &amp; MACHINE LEARNING  /  DEVELOPER</text>
  <text x="600" y="220" fill="#fff" stroke="#10131d" stroke-width="8" paint-order="stroke" font-size="94" font-weight="900" letter-spacing="10">DVEEJ</text>
- <text x="600" y="267" fill="#ff5667" font-size="23" font-weight="800" letter-spacing="8" filter="url(#glow)">A NEW DAY. A NEW BUILD.</text>
+ <text x="600" y="267" fill="#ff5667" font-size="23" font-weight="800" letter-spacing="8" filter="url(#glow)">A NEW DAY. A NEW BUILD.<animate attributeName="opacity" values=".72;1;.72" dur="2.8s" repeatCount="indefinite"/></text>
  <text x="600" y="302" fill="#d6e6f7" font-size="14" letter-spacing="4">LEARN  •  CREATE  •  REPEAT</text>
 </g>
 <path d="M600 0L510 390M620 0L710 390" stroke="#fff" stroke-opacity=".12" stroke-width="2"/>
