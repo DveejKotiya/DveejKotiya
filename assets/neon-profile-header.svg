@@ -2,6 +2,7 @@
 <title id="title">Dveej Kotiya — AI and ML Explorer</title>
 <desc id="desc">Animated red and blue neon wave header with a glowing title.</desc>
 <defs>
+  <clipPath id="headerClip"><rect width="1200" height="190" rx="12"/></clipPath>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#10121d"/><stop offset=".52" stop-color="#241326"/><stop offset="1" stop-color="#071b32"/></linearGradient>
   <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff354d"/><stop offset=".5" stop-color="#a855f7"/><stop offset="1" stop-color="#1687e8"/></linearGradient>
   <filter id="glow"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
@@ -25,4 +26,26 @@
  <animate attributeName="stroke-opacity" values="0;.07;0" dur="5s" repeatCount="indefinite"/>
  <animate attributeName="d" values="M250 0L360 190;M850 0L960 190;M1450 0L1560 190" dur="5s" repeatCount="indefinite"/>
 </path>
+<!-- Animated scan beam and electric edge accents -->
+<g clip-path="url(#headerClip)">
+  <rect x="-180" y="0" width="110" height="190" fill="#ffffff" opacity=".055" transform="skewX(-18)">
+    <animate attributeName="x" values="-220;1320" dur="6s" repeatCount="indefinite"/>
+  </rect>
+  <path d="M0 8 H1200" stroke="#ff4568" stroke-opacity=".45" stroke-width="1">
+    <animate attributeName="stroke-opacity" values=".12;.65;.12" dur="2.8s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0 182 H1200" stroke="#1687e8" stroke-opacity=".5" stroke-width="1">
+    <animate attributeName="stroke-opacity" values=".6;.12;.6" dur="3.2s" repeatCount="indefinite"/>
+  </path>
+  <g fill="none" stroke="url(#neon)" stroke-width="1.2" opacity=".8">
+    <path d="M28 28 H88 V48"><animate attributeName="opacity" values=".25;1;.25" dur="2s" repeatCount="indefinite"/></path>
+    <path d="M1172 28 H1112 V48"><animate attributeName="opacity" values="1;.25;1" dur="2.4s" repeatCount="indefinite"/></path>
+    <path d="M28 162 H88 V142"><animate attributeName="opacity" values=".25;1;.25" dur="2.7s" repeatCount="indefinite"/></path>
+    <path d="M1172 162 H1112 V142"><animate attributeName="opacity" values="1;.25;1" dur="2.2s" repeatCount="indefinite"/></path>
+  </g>
+  <g fill="#fff" filter="url(#glow)">
+    <circle cx="145" cy="95" r="2"><animate attributeName="cy" values="95;72;95" dur="3.4s" repeatCount="indefinite"/><animate attributeName="opacity" values=".15;1;.15" dur="3.4s" repeatCount="indefinite"/></circle>
+    <circle cx="1055" cy="95" r="2"><animate attributeName="cy" values="95;118;95" dur="3.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.15;1" dur="3.8s" repeatCount="indefinite"/></circle>
+  </g>
+</g>
 </svg>
