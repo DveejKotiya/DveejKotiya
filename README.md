@@ -35,6 +35,8 @@
 
 <img src="assets/neon-pulse-divider.svg" width="96%" alt="Red and blue comic web divider"/>
 
+<img src="assets/neon-circuit-strip.svg" width="100%" alt="Animated red and blue neon circuit strip"/>
+
 </div>
 
 ## 🕸️ ABOUT ME
