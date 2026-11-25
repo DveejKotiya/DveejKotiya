@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90" role="img" aria-labelledby="t d">
+<title id="t">Animated cyber circuit strip</title>
+<desc id="d">A red and blue neon circuit with moving energy pulses.</desc>
+<defs>
+ <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ff354d"/><stop offset=".5" stop-color="#a855f7"/><stop offset="1" stop-color="#1687e8"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="90" rx="10" fill="#0b1020" opacity=".72"/>
+<g fill="none" stroke="url(#g)" stroke-width="2" filter="url(#glow)">
+ <path d="M0 45H120 M120 45V20H260 M260 20H410 M410 20V45H540 M540 45H660 M660 45V70H790 M790 70H940 M940 70V45H1200" opacity=".8"/>
+ <path d="M0 62H85V76H205 M1200 28H1080V14H960" opacity=".55"/>
+</g>
+<g fill="#fff" filter="url(#glow)">
+ <circle r="4" cy="45"><animate attributeName="cx" values="0;120;120;260;410;410;540;660;660;790;940;940;1200" dur="7s" repeatCount="indefinite"/></circle>
+ <circle r="3" cy="62"><animate attributeName="cx" values="0;85;85;205;1200" dur="5s" repeatCount="indefinite"/></circle>
+ <circle r="3" cy="28"><animate attributeName="cx" values="1200;1080;1080;960;0" dur="6s" repeatCount="indefinite"/></circle>
+</g>
+<g fill="#38bdf8"><circle cx="120" cy="45" r="3"><animate attributeName="r" values="2;5;2" dur="1.8s" repeatCount="indefinite"/></circle><circle cx="940" cy="70" r="3"><animate attributeName="r" values="5;2;5" dur="2.1s" repeatCount="indefinite"/></circle></g>
+</svg>
