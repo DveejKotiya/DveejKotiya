@@ -48,4 +48,15 @@
     <circle cx="1055" cy="95" r="2"><animate attributeName="cy" values="95;118;95" dur="3.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.15;1" dur="3.8s" repeatCount="indefinite"/></circle>
   </g>
 </g>
+<!-- Four-stage orbital pulse animation -->
+<g fill="none" stroke-width="1.4" opacity=".72">
+ <ellipse cx="600" cy="91" rx="235" ry="48" stroke="#ff4568" stroke-dasharray="7 13" transform="rotate(-7 600 91)">
+  <animate attributeName="stroke-dashoffset" values="0;80" dur="7s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".2;.85;.2" dur="4s" repeatCount="indefinite"/>
+ </ellipse>
+ <ellipse cx="600" cy="91" rx="270" ry="58" stroke="#38bdf8" stroke-dasharray="3 18" transform="rotate(7 600 91)">
+  <animate attributeName="stroke-dashoffset" values="0;-84" dur="9s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".8;.18;.8" dur="5s" repeatCount="indefinite"/>
+ </ellipse>
+</g>
 </svg>
