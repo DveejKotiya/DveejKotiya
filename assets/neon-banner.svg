@@ -42,11 +42,40 @@
 </g>
 <path d="M0 335H1200" stroke="url(#split)" stroke-width="3" filter="url(#glow)"/>
 <g text-anchor="middle" font-family="Arial,Helvetica,sans-serif">
- <text x="600" y="128" fill="#fff" font-size="18" font-weight="700" letter-spacing="8">ECE  /  AI &amp; MACHINE LEARNING  /  DEVELOPER</text>
+ <text x="600" y="128" fill="#fff" font-size="18" font-weight="700" letter-spacing="8">MSC  /  AI &amp; MACHINE LEARNING  /  DEVELOPER</text>
  <text x="600" y="220" fill="#fff" stroke="#10131d" stroke-width="8" paint-order="stroke" font-size="94" font-weight="900" letter-spacing="10">DVEEJ</text>
  <text x="600" y="267" fill="#ff5667" font-size="23" font-weight="800" letter-spacing="8" filter="url(#glow)">A NEW DAY. A NEW BUILD.<animate attributeName="opacity" values=".72;1;.72" dur="2.8s" repeatCount="indefinite"/></text>
  <text x="600" y="302" fill="#d6e6f7" font-size="14" letter-spacing="4">LEARN  •  CREATE  •  REPEAT</text>
 </g>
 <path d="M600 0L510 390M620 0L710 390" stroke="#fff" stroke-opacity=".12" stroke-width="2"/>
 <g fill="#ff485b"><circle cx="105" cy="105" r="3"/><circle cx="1090" cy="82" r="3"/><circle cx="160" cy="290" r="2"/><circle cx="1040" cy="285" r="2"/></g>
+<!-- Extra motion: scanning light, drifting particles, and animated city windows -->
+<defs>
+ <clipPath id="bannerClip"><rect width="1200" height="390"/></clipPath>
+ <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".28"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+</defs>
+<g clip-path="url(#bannerClip)" pointer-events="none">
+ <rect x="-260" y="0" width="190" height="390" fill="url(#beam)" opacity=".65" transform="skewX(-18)">
+  <animate attributeName="x" values="-300;1400" dur="8s" repeatCount="indefinite"/>
+ </rect>
+ <g fill="#fff" filter="url(#glow)">
+  <circle cx="390" cy="48" r="2"><animate attributeName="cy" values="48;330;48" dur="9s" repeatCount="indefinite"/><animate attributeName="opacity" values=".1;1;.1" dur="4s" repeatCount="indefinite"/></circle>
+  <circle cx="810" cy="320" r="2.4"><animate attributeName="cy" values="320;40;320" dur="11s" repeatCount="indefinite"/><animate attributeName="opacity" values=".1;.9;.1" dur="5s" repeatCount="indefinite"/></circle>
+  <circle cx="560" cy="55" r="1.7"><animate attributeName="cx" values="560;680;560" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values=".15;1;.15" dur="3.2s" repeatCount="indefinite"/></circle>
+  <circle cx="1040" cy="210" r="1.8"><animate attributeName="cy" values="210;120;210" dur="6.5s" repeatCount="indefinite"/><animate attributeName="opacity" values=".1;.95;.1" dur="3.5s" repeatCount="indefinite"/></circle>
+ </g>
+ <g fill="#ff5268">
+  <rect x="22" y="262" width="5" height="8"><animate attributeName="opacity" values=".2;1;.2" dur="1.8s" repeatCount="indefinite"/></rect>
+  <rect x="72" y="220" width="5" height="8"><animate attributeName="opacity" values="1;.2;1" dur="2.4s" repeatCount="indefinite"/></rect>
+  <rect x="258" y="250" width="5" height="8"><animate attributeName="opacity" values=".2;1;.2" dur="2.1s" repeatCount="indefinite"/></rect>
+ </g>
+ <g fill="#38bdf8">
+  <rect x="728" y="235" width="5" height="8"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></rect>
+  <rect x="890" y="255" width="5" height="8"><animate attributeName="opacity" values="1;.2;1" dur="2.6s" repeatCount="indefinite"/></rect>
+  <rect x="1140" y="270" width="5" height="8"><animate attributeName="opacity" values=".2;1;.2" dur="1.7s" repeatCount="indefinite"/></rect>
+ </g>
+ <path d="M0 350H1200" stroke="#fff" stroke-opacity=".18" stroke-dasharray="3 14">
+  <animate attributeName="stroke-dashoffset" values="0;-170" dur="7s" repeatCount="indefinite"/>
+ </path>
+</g>
 </svg>
