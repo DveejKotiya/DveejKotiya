@@ -13,4 +13,12 @@
   </path>
   <circle cx="500" cy="18" r="3.5" fill="#fff" filter="url(#neonGlow)"><animate attributeName="r" values="2.5;5.5;2.5" dur="1.5s" repeatCount="indefinite"/><animate attributeName="opacity" values=".5;1;.5" dur="1.5s" repeatCount="indefinite"/></circle>
   <circle cx="500" cy="18" r="10" stroke="#38bdf8" stroke-opacity=".75" stroke-width="1"><animate attributeName="r" values="5;17;5" dur="2.2s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0;.7" dur="2.2s" repeatCount="indefinite"/></circle>
+<!-- Twin comet pulses travel in opposite directions -->
+<g filter="url(#neonGlow)">
+ <circle cx="0" cy="18" r="3" fill="#fff"><animate attributeName="cx" values="0;1000" dur="3.2s" repeatCount="indefinite"/></circle>
+ <circle cx="1000" cy="18" r="2.5" fill="#38bdf8"><animate attributeName="cx" values="1000;0" dur="4.1s" repeatCount="indefinite"/></circle>
+ <path d="M0 18H1000" stroke="#ff4568" stroke-opacity=".18" stroke-width="7">
+  <animate attributeName="stroke-opacity" values=".08;.4;.08" dur="2s" repeatCount="indefinite"/>
+ </path>
+</g>
 </svg>
