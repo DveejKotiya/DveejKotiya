@@ -78,4 +78,16 @@
   <animate attributeName="stroke-dashoffset" values="0;-170" dur="7s" repeatCount="indefinite"/>
  </path>
 </g>
+<!-- Animated electric waveform across the skyline -->
+<g fill="none" stroke-linecap="round">
+ <path d="M0 342 Q150 325 300 342 T600 342 T900 342 T1200 342" stroke="#ff4052" stroke-width="2" opacity=".8" filter="url(#glow)">
+  <animate attributeName="d" values="M0 342 Q150 325 300 342 T600 342 T900 342 T1200 342;M0 342 Q150 360 300 342 T600 342 T900 342 T1200 342;M0 342 Q150 325 300 342 T600 342 T900 342 T1200 342" dur="4s" repeatCount="indefinite"/>
+ </path>
+ <path d="M0 352 Q150 365 300 352 T600 352 T900 352 T1200 352" stroke="#38bdf8" stroke-width="1.5" opacity=".75">
+  <animate attributeName="d" values="M0 352 Q150 365 300 352 T600 352 T900 352 T1200 352;M0 352 Q150 335 300 352 T600 352 T900 352 T1200 352;M0 352 Q150 365 300 352 T600 352 T900 352 T1200 352" dur="5.5s" repeatCount="indefinite"/>
+ </path>
+</g>
+<circle cx="0" cy="342" r="4" fill="#fff" filter="url(#glow)">
+ <animate attributeName="cx" values="0;1200" dur="5s" repeatCount="indefinite"/>
+</circle>
 </svg>
