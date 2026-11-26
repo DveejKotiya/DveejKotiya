@@ -37,6 +37,10 @@
 
 <img src="assets/neon-circuit-strip.svg" width="100%" alt="Animated red and blue neon circuit strip"/>
 
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=650&lines=INITIALIZING+NEW+IDEAS...;BUILDING+AI+%26+ML+PROJECTS...;TURNING+COFFEE+INTO+CODE...;SYSTEM+STATUS%3A+ALWAYS+LEARNING" alt="Animated developer status messages"/>
+</a>
+
 </div>
 
 ## 🕸️ ABOUT ME
