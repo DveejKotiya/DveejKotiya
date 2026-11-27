@@ -186,6 +186,10 @@ Turning concepts into working prototypes and documenting the journey.
 - [ ] Strengthen software development and testing skills
 - [ ] Share more projects with clear documentation
 
+<div align="center">
+  <img src="https://img.shields.io/badge/THANKS%20FOR%20VISITING-KEEP%20BUILDING-FF4545?style=for-the-badge&labelColor=10121d"/>
+</div>
+
 ## 🌐 CONNECT
 
 <div align="center" id="connect">
