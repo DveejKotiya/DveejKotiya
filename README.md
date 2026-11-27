@@ -66,6 +66,10 @@ I enjoy collaborating, sharing ideas, and learning by building — one practical
 
 > **THE MINDSET:** Stay curious. Build with purpose. Make every version better.
 
+<div align="center">
+  <img src="assets/neon-pulse-divider.svg" width="92%" alt="Animated neon section divider"/>
+</div>
+
 ## ⚡ WHAT I'M FOCUSED ON
 
 <div align="center">
