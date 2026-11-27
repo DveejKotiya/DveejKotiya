@@ -130,6 +130,10 @@ Turning concepts into working prototypes and documenting the journey.
 
 *Explore the repositories for source code, implementation details, and updates.*
 
+<div align="center">
+  <img src="assets/neon-pulse-divider.svg" width="92%" alt="Animated neon section divider"/>
+</div>
+
 ## 🧰 TECH TOOLKIT
 
 <div align="center">
