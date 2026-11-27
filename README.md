@@ -45,6 +45,12 @@
 
 ## 🕸️ ABOUT ME
 
+<div align="center">
+  <img src="https://img.shields.io/badge/PROFILE-NEON%20EDITION-FF4545?style=flat-square&labelColor=10121d"/>
+  <img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20ML-38BDF8?style=flat-square&labelColor=10121d"/>
+  <img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-A855F7?style=flat-square&labelColor=10121d"/>
+</div>
+
 Hey, I'm **Dveej Kotiya** — an **MSc student** interested in Artificial Intelligence, Machine Learning, and software development.
 
 I like understanding how things work and turning what I learn into practical projects. My approach is simple: explore an idea, break it into smaller problems, build a solution, test it, and keep improving.
