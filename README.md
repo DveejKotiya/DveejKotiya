@@ -103,6 +103,12 @@ Turning concepts into working prototypes and documenting the journey.
 ## 🚀 FEATURED BUILDS
 
 <div align="center">
+  <img src="https://img.shields.io/badge/01-COMPUTER%20VISION-FF4545?style=for-the-badge&labelColor=10121d"/>
+  <img src="https://img.shields.io/badge/02-PERSONAL%20AI-38BDF8?style=for-the-badge&labelColor=10121d"/>
+  <img src="https://img.shields.io/badge/03-WEB%20DEVELOPMENT-A855F7?style=for-the-badge&labelColor=10121d"/>
+</div>
+
+<div align="center">
 
 <a href="https://github.com/DveejKotiya/SmartBusFaceRecognition">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=DveejKotiya&repo=SmartBusFaceRecognition&theme=tokyonight&hide_border=false&bg_color=0B1020&border_color=FF4545&title_color=FF6B6B&icon_color=38BDF8" alt="SmartBusFaceRecognition project card"/>
