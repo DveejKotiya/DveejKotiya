@@ -199,6 +199,19 @@ Turning concepts into working prototypes and documenting the journey.
 
 </div>
 
+## ⚙️ HOW I BUILD
+
+- **Understand first:** define the problem before choosing a tool.
+- **Build in small steps:** keep features focused and testable.
+- **Learn from errors:** debug patiently and document useful fixes.
+- **Keep improving:** revisit projects as skills and ideas grow.
+
+<div align="center">
+<img src="https://img.shields.io/badge/THINK-FF4545?style=flat-square&labelColor=10121d"/> ·
+<img src="https://img.shields.io/badge/CREATE-38BDF8?style=flat-square&labelColor=10121d"/> ·
+<img src="https://img.shields.io/badge/ITERATE-A855F7?style=flat-square&labelColor=10121d"/>
+</div>
+
 ## 🎯 NEXT MISSIONS
 
 - [ ] Keep improving Python and problem-solving fundamentals
