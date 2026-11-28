@@ -145,6 +145,15 @@ Turning concepts into working prototypes and documenting the journey.
   <img src="assets/neon-pulse-divider.svg" width="92%" alt="Animated neon section divider"/>
 </div>
 
+## 🔬 CURRENT EXPLORATION
+
+<div align="center">
+<img src="https://img.shields.io/badge/COMPUTER%20VISION-FF4545?style=for-the-badge&labelColor=10121d"/>
+<img src="https://img.shields.io/badge/DEEP%20LEARNING-38BDF8?style=for-the-badge&labelColor=10121d"/>
+<img src="https://img.shields.io/badge/PROBLEM%20SOLVING-A855F7?style=for-the-badge&labelColor=10121d"/>
+<p><i>Learning through experiments, practical projects, and continuous improvement.</i></p>
+</div>
+
 ## 🧰 TECH TOOLKIT
 
 <div align="center">
