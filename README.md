@@ -223,6 +223,14 @@ Turning concepts into working prototypes and documenting the journey.
   <img src="https://img.shields.io/badge/THANKS%20FOR%20VISITING-KEEP%20BUILDING-FF4545?style=for-the-badge&labelColor=10121d"/>
 </div>
 
+## 🤝 LET'S COLLABORATE
+
+Have an interesting idea, a learning resource, or a project worth building together? I'm open to exchanging knowledge, discussing practical AI/ML ideas, and learning from other developers.
+
+<div align="center">
+<img src="https://img.shields.io/badge/OPEN%20TO-IDEAS%20%26%20COLLABORATION-FF4545?style=for-the-badge&labelColor=10121d"/>
+</div>
+
 ## 🌐 CONNECT
 
 <div align="center" id="connect">
