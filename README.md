@@ -100,6 +100,10 @@ Turning concepts into working prototypes and documenting the journey.
 </table>
 </div>
 
+<div align="center">
+<img src="https://img.shields.io/badge/LEARNING%20ROADMAP-EXPLORE%20%7C%20LEARN%20%7C%20BUILD-FF4545?style=for-the-badge&labelColor=10121d" alt="Learning roadmap"/>
+</div>
+
 ## 🚀 FEATURED BUILDS
 
 <div align="center">
