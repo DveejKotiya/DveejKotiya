@@ -248,6 +248,8 @@ Have an interesting idea, a learning resource, or a project worth building toget
 
 *Thanks for stopping by. Let's keep learning, creating, and building.*
 
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=14&duration=2400&pause=800&color=38BDF8&center=true&vCenter=true&width=620&lines=ENDLESS+CURIOSITY.;CONSISTENT+PROGRESS.;ONE+BUILD+AT+A+TIME." alt="Animated closing message"/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1687e8,52:171b2b,100:ff354d&height=115&section=footer&animation=twinkling" width="100%" alt="Animated blue and red neon wave footer"/>
 
 </div>
