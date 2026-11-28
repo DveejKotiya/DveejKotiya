@@ -135,6 +135,13 @@ Turning concepts into working prototypes and documenting the journey.
 *Explore the repositories for source code, implementation details, and updates.*
 
 <div align="center">
+<img src="https://img.shields.io/badge/IDEA-FF4545?style=flat-square&labelColor=10121d"/> ➜
+<img src="https://img.shields.io/badge/PLAN-A855F7?style=flat-square&labelColor=10121d"/> ➜
+<img src="https://img.shields.io/badge/BUILD-38BDF8?style=flat-square&labelColor=10121d"/> ➜
+<img src="https://img.shields.io/badge/IMPROVE-22C55E?style=flat-square&labelColor=10121d"/>
+</div>
+
+<div align="center">
   <img src="assets/neon-pulse-divider.svg" width="92%" alt="Animated neon section divider"/>
 </div>
 
